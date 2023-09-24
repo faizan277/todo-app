@@ -1,2 +1,2 @@
-# todo-app
+# Shopping TODO APP in REACT JS
  
